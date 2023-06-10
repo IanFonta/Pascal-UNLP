@@ -1,4 +1,4 @@
-program ejerciciodos;
+program ejercicio2;
 
 var
 	num1,num2, total: integer;

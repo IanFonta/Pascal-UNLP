@@ -1,4 +1,4 @@
-program ejerciciocuatro;
+program ejercicio4;
 
 var
 	diametro, radio, area, perimetro: real;
